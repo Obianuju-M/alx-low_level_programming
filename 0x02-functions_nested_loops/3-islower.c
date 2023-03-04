@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower-> Function that checks for lower case xters
- * @c-> the xter to be checked
+ * @c -> the xter to be checked
  * Return: 1 (True - if cis lowercase xters)or 0 (False if c is not lower case)
  */
 
