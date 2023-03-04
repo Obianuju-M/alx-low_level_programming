@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * strncpy - A function tO copy a string
+ * strncpy - A function to copy a string
  *
  * @dest-> points to destination
  * @src-> pointer to source
@@ -18,7 +18,7 @@ char *_strncpy(char *dest, char *src, int n)
 	{
 		dest[i] = src[i];
 	}
-	while (i < n;)
+	while (i < n)
 	{
 		dest[i] = '\0';
 		i++;
