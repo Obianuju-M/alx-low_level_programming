@@ -6,11 +6,13 @@
  */
 int main(void)
 {
-	int c;	
+	int c;
+
 	c = 48;
+
 	while (c <= 102)
 	{
-		putchar(c);	
+		putchar(c);
 		if (c == 57)
 			c += 39;
 		++c;
