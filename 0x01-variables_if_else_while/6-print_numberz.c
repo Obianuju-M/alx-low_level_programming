@@ -15,7 +15,7 @@ int main(void)
 		(c < 10);
 	{
 			putchar (c + '0');
-			c++;
+			++c;
 
 	}
 
