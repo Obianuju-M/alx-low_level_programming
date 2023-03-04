@@ -2,7 +2,7 @@
 /**
  * _islower-> Function that checks for lower case xters
  * c-> the xter to be checked
- * Return: 1 (True - if cis lower case xters)or 0 (False if c is not lower case)
+ * Return: 1 (True - if cis lowercase xters)or 0 (False if c is not lower case)
  */
 
 int _islower(int c)
