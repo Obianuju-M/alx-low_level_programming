@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * _isupper - A functions that checks for uppercasexters
  *@c: The character to be checked
